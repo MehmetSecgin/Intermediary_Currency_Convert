@@ -1,4 +1,4 @@
-#Currency Convertion App for PlayTech by Mehmet Ali Seçgin
+#Currency Convertion App by Mehmet Ali Seçgin
 
 Usage: after downloading the code, simply run the "CurrencyApplication.java" file.
 I'm using Java Spring Boot and ThymeLeaf for visualizing.
